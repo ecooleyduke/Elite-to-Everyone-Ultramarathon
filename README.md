@@ -25,14 +25,32 @@ The goal is not only to chart finish times, but to ask:
 - **Ethical Reflection**  
   Discussion on whether the rise in slower finish times reflects a positive shift toward inclusivity or a decline in competitive standards.
 
+## Data Download Instructions
 
-## Files
+1. Visit the dataset page on Kaggle:  
+   [The Big Dataset of Ultra Marathon Running](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running)
+
+2. Click the **"Download"** button to get the `.zip` file.
+
+3. Extract the contents into the project's data/ folder:
+./data/ultra-marathon/
+
+4. Your folder structure should look like this:
+```
+Elite-to-Everyone-Ultramarathon/
+└── data/
+    └── TWO_CENTURIES_OF_UM_RACES.csv
+```
+
+
+## Project Files
 
 - `ultramarathon_dataset_eda.ipynb.ipynb` – Main notebook with all analysis, visualizations, and commentary  
 - `data/TWO_CENTURIES_OF_UM_RACES.csv` – Full dataset used for analysis  
 - `scripts/` – Folder containing all functions used in notebook data exploration
 - `requirements.txt` - All the packages you need in your environment
 - `README.md` – You're here
+
 
 ## Blog Post
 
