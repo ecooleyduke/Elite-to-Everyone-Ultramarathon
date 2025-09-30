@@ -31,7 +31,8 @@ The goal is not only to chart finish times, but to ask:
 - `ultramarathon_dataset_eda.ipynb.ipynb` – Main notebook with all analysis, visualizations, and commentary  
 - `data/TWO_CENTURIES_OF_UM_RACES.csv` – Full dataset used for analysis  
 - `scripts/` – Folder containing all functions used in notebook data exploration
-- `README.md` – You're here!
+- `requirements.txt` - All the packages you need in your environment
+- `README.md` – You're here
 
 ## Blog Post
 
