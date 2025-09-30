@@ -32,8 +32,7 @@ The goal is not only to chart finish times, but to ask:
 
 2. Click the **"Download"** button to get the `.zip` file.
 
-3. Extract the contents into the project's data/ folder:
-./data/ultra-marathon/
+3. Extract the contents into the project's `data/` folder
 
 4. Your folder structure should look like this:
 ```
